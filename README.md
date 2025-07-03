@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MardonioRom
 - 👀 I’m interested in running and cinema.
 - 🌱 I’m currently studying a masters degree in artificial intelligence at ITESM.
-- 💞️ I’m looking to collaborate on python coding, data science, ML, DL.
+- 💞️ I’m looking to collaborate on python coding, data science, ML, DL, NLP.
 - 📫 How to reach me: by teams.
 
 <!---
